@@ -7,7 +7,7 @@ English translation below
 ### Qu'est-ce que CaVaches
 Inspiré par un calendrier publicitaire qui a longuement été distribués aux éleveurs, CaVaches est une simple feuille Calc de LibreOffice permettant de produire un calendrier en colonnes de trois semaines. Cela aide les éleveurs à suivre les périodes des chaleurs des vaches. En cas d'insémination une date approximative de la mise bas est donnée. 
 
-J'ai créé cette feuille il y a quelques années pour mon frère et j'ai essayé de la sauver au format flat XML pour pouvoir la partager sur github en suivant les indications de https://wiki.documentfoundation.org/Libreoffice_and_subversion. En espérant que cela fonctionne. Si ce n'était pas le cas, vous pouvez trouver mes fichiers originaux sous Dropbox http://bit.ly/cavaches
+J'ai créé cette feuille il y a quelques années pour mon frère et j'ai essayé de la sauver au format flat XML pour pouvoir la partager sur github en suivant les indications de https://wiki.documentfoundation.org/Libreoffice_and_subversion. En espérant que cela fonctionne. Si ce n'était pas le cas, vous pouvez trouver mes fichiers originaux sur mon partage https://rb.gy/0008sb
 
 ### Comment ça fonctionne 
 CaVaches produit des calendriers d'hiver, de septembre octobre à septembre/octobre de l'année suivante. Sur la première page en case K1, saisissez une année, et les formules calculent immédiatement un calendrier sur deux pages qui début en octobre de l'année précédente. 
@@ -27,7 +27,7 @@ Texte complet de la licence sous https://www.gnu.org/licenses/gpl-3.0.fr.html
 ### Whats is CaVaches? 
 Inspired by a commercial calendar that was distributed to cow breeders CaVaches is a simple Libreoffice Calc file that produce a three weeks by column calendar. It helps breeders to spot next reproductive period and in case of an insemination, it gives you a approximation of the date of delivery. 
 
-I have created it for my brother and been using it for several years now. I tried to share it on github by saving in flat XML format as adviced by https://wiki.documentfoundation.org/Libreoffice_and_subversion. Hope it will work. You can find the original files on my dropbox http://bit.ly/cavaches
+I have created it for my brother and been using it for several years now. I tried to share it on github by saving in flat XML format as adviced by https://wiki.documentfoundation.org/Libreoffice_and_subversion. Hope it will work. You can find the original files on my share https://rb.gy/0008sb
 
 It is inf french (title, names of days, names of month) but can easilly be translated. 
 
